@@ -1,7 +1,6 @@
 package org.launchcode.exercises;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class Main {
 
@@ -20,12 +19,12 @@ public class Main {
 
     public static void Divide(int x, int y)
     {
-        // Write code here!
+
     }
 
-    public static int CheckFileExtension(String fileName)
+    public static void CheckFileExtension(String fileName)
     {
-        // Write code here!
+
     }
 
 }
